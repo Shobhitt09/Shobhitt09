@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shobhitt09
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning java,c
-- 💞️ I’m studying iit kharagpur
+- 💞️ I’m studying in IIT KHARAGPUR
 - 📫 How to reach me 
 
 <!---
